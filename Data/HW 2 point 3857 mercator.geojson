@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HW 2 point 3857 mercator",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ -8098656.68191622197628, 5121570.151952035725117 ] } }
+]
+}
