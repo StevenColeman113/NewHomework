@@ -1,7 +1,8 @@
 # Geography 370 Homework 2
 
 
-![Map (title and Labels)](https://user-images.githubusercontent.com/112418269/187817383-e41d8b45-8ec5-4e71-9e43-2c15bd5c83a2.png)
+![Final Map HW 2](https://user-images.githubusercontent.com/112418269/187824208-b8aabd16-8705-484d-9527-01b0155cdbe9.png)
+
 
 <body> <small>
  Showing urban planning and walkability in my mother's hometown
