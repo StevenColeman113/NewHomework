@@ -5,7 +5,9 @@
 
 <body> <small>
  Showing urban planning and walkability in my mother's hometown
+ 
  data sources
+ 
   https://www.westhartfordct.gov/resident-services/gis-maps
 
   </body> 
